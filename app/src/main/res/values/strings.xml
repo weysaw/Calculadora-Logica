@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Práctica 02 Calculadora Logica</string>
+    <string name="ecuacion">Ecuación</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="and">AND</string>
+    <string name="or">OR</string>
+    <string name="not">NOT</string>
+    <string name="cero">0</string>
+    <string name="uno">1</string>
+    <string name="clr">CLR</string>
+    <string name="parentesisInicio">(</string>
+    <string name="parentesisCierre">)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">Resultado:</string>
+    <string name="valores">Valores:</string>
+</resources>
